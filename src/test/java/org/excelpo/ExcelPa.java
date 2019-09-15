@@ -14,7 +14,7 @@ public class ExcelPa {
 
 	public static void excelMetho() throws IOException {
 		// TODO Auto-generated method stub
-
+		//TODO Auto-generated method stub6
 		File f = new File("C:\\Users\\Admin\\eclipse-workspace\\ExcelPAth\\target\\test1.xlsx");
 		FileInputStream stream = new FileInputStream(f);
 		XSSFWorkbook wo= new XSSFWorkbook(stream);
