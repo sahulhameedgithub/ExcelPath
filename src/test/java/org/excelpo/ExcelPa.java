@@ -13,7 +13,11 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 public class ExcelPa {
 
 	public static void excelMetho() throws IOException {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub1
+		// TODO Auto-generated method stub2
+		// TODO Auto-generated method stub3
+		// TODO Auto-generated method stub4
+		// TODO Auto-generated method stub5
 
 		File f = new File("C:\\Users\\Admin\\eclipse-workspace\\ExcelPAth\\target\\test1.xlsx");
 		FileInputStream stream = new FileInputStream(f);
